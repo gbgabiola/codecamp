@@ -14,9 +14,9 @@
   - `controls` attribute will display controls for the user
   - `loop` attribute will make video repeat infinitely
   - `poster` attribute is a URL for the image display
-- `<audio>`
-- `<iframe>`
-- `<hr>`
+- `<audio>` element is used to embed sound media
+- `<iframe>` is an **Inline Frame element** is used to embedding a separate webpage, usually used for maps
+- `<hr>` is a horizonal rule that show a line to add divider between elements
 
 
 ## Homework!
