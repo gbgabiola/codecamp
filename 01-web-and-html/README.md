@@ -1,4 +1,4 @@
-# Day 1
+# Web and HTML
 
 - [How Does the Web Work](#how-does-the-web-work)
 - [What are HTTP requests?](#what-are-http-requests)

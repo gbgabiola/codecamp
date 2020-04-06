@@ -1,6 +1,4 @@
-# Day 2
-
-## More HTML Elements
+# More HTML Elements
 
 - `<span>` element is a generic inline container to group some text
 - `<div>` is a **HTML Content Dvision element**, similar to a `<span>`, but it's a block element

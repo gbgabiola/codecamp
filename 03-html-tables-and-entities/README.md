@@ -1,4 +1,4 @@
-# Day 3
+# HTML Tables and Entities
 
 - [Entity Codes](#entity-codes)
 - [Tables](#tables)
