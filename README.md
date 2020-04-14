@@ -9,4 +9,4 @@
 - [x] [CSS Selectors](./07-css-selectors)
 - [x] [CSS Colors](./08-css-colors)
 - [x] [CSS Box Model](./09-css-box-model)
-- [ ] [CSS Text Properties](./10-css-text-properties)
+- [x] [CSS Text Properties](./10-css-text-properties)
