@@ -10,3 +10,5 @@
 - [x] [CSS Colors](./08-css-colors)
 - [x] [CSS Box Model](./09-css-box-model)
 - [x] [CSS Text Properties](./10-css-text-properties)
+- [x] [Using and Optimizing Google Fonts](./11-using-and-optimizing-google-fonts)
+- [ ] [CSS Units](./12-css-units)
