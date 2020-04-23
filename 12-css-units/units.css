@@ -1,0 +1,43 @@
+h1 {
+  /* font-size: 80px; */
+  /* font-size: 1in; */
+  font-size: 96px;
+  background-color: lavender;
+  /* line-height: 48px; */
+  line-height: 100%;
+}
+
+#stuff {
+  font-size: 20px;
+}
+
+h2 {
+  /* font-size: 60px; */
+  font-size: 3em;
+  border: 4px dashed orangered;
+  height: 60px;
+}
+
+button {
+  font-size: 2em;
+}
+
+h3 {
+  /* font-size: 80px; */
+  /* font-size: 40px; */
+  font-size: 2em;
+}
+
+p {
+  font-size: 0.8em;
+}
+
+#gallery {
+  width: 1000px;
+  border: 3px solid red;
+}
+
+img {
+  /* width: 50%; */
+  width: 33.3333333%;
+}

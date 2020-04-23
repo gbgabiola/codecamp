@@ -11,4 +11,6 @@
 - [x] [CSS Box Model](./09-css-box-model)
 - [x] [CSS Text Properties](./10-css-text-properties)
 - [x] [Using and Optimizing Google Fonts](./11-using-and-optimizing-google-fonts)
-- [ ] [CSS Units](./12-css-units)
+- [x] [CSS Units](./12-css-units)
+- [ ] [CSS3 Flexbox](./13-css3-flexbox)
+- [ ] [Responsive Design and Media Queries](./14-responsive-design-and-media-queries)
